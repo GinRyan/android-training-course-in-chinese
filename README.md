@@ -1,4 +1,4 @@
-# Google Android官方培训课程中文版(v0.5)
+# Google Android官方培训课程中文版(v0.7)
 
 ![Android Training](android_training.jpg)
 
@@ -12,22 +12,22 @@ Google Android团队在2012年的时候开设了**Android Training**板块 - <ht
 
 请读者点击Star进行关注并支持！
 
-### 版本信息
-
-* v0.1 - 2014/08/05
-* v0.2 - 2014/08/14
-* v0.3 - 2014/08/31
-* v0.4 - 2014/09/11
-
 ### 在线阅读
 
 **<http://hukai.me/android-training-course-in-chinese/index.html>**
 
 ### 离线文档
-
 * PDF: <http://hukai.me/eBooks/AndroidTrainingCHS.pdf>
 * ePub: <http://hukai.me/eBooks/AndroidTrainingCHS.epub>
 * Mobi: <http://hukai.me/eBooks/AndroidTrainingCHS.mobi>
+
+* v0.7 - 2014/11/30
+* v0.6 - 2014/11/02
+* v0.5 - 2014/10/18
+* v0.4 - 2014/09/11
+* v0.3 - 2014/08/31
+* v0.2 - 2014/08/14
+* v0.1 - 2014/08/05
 
 ### 参与方式
 
@@ -75,24 +75,31 @@ Google Android团队在2012年的时候开设了**Android Training**板块 - <ht
 * [Android可穿戴应用](http://hukai.me/android-training-course-in-chinese/building-wearables.html)
    * [赋予Notification可穿戴的特性](http://hukai.me/android-training-course-in-chinese/wearables/notifications/index.html) - @[wangyachen](https://github.com/wangyachen)
    * [创建可穿戴的应用](http://hukai.me/android-training-course-in-chinese/wearables/apps/index.html) - @[kesenhoo](https:://github.com/kesenhoo)
-   * [创建自定义的UI]() - 待认领
+   * [创建自定义的UI]() - @2014/09/28 - 待认领
    * [发送并同步数据](http://hukai.me/android-training-course-in-chinese/wearables/data-layer/index.html) - @[wly2014](https://github.com/wly2014)
-* [Android交互与界面设计](http://hukai.me/android-training-course-in-chinese/best-ux.html)
+* [Android TV应用](http://hukai.me/android-training-course-in-chinese/building-tv.html)
+   * [创建TV应用](http://hukai.me/android-training-course-in-chinese/tv/start/index.html) - @2014/10/20 - 待认领
+   * [创建TV播放应用](http://hukai.me/android-training-course-in-chinese/tv/playback/start.html) - @2014/10/20 - 待认领
+   * [帮助用户在TV上探索内容](http://hukai.me/android-training-course-in-chinese/tv/discovery/index.html) - @2014/10/20 - 待认领
+   * [创建TV游戏应用](http://hukai.me/android-training-course-in-chinese/tv/games/index.html) - @2014/10/20 - 待认领
+   * [创建TV直播应用](http://hukai.me/android-training-course-in-chinese/tv/tif/index.html) - @2014/10/20 - 待认领
+* [Android交互设计](http://hukai.me/android-training-course-in-chinese/best-ux.html)
    * [设计高效的导航](http://hukai.me/android-training-course-in-chinese/ux/design-nav/index.html) - @[XizhiXu](https://github.com/XizhiXu)
    * [实现高效的导航](http://hukai.me/android-training-course-in-chinese/ux/implement-nav/index.html) - @[Lin-H](https://github.com/Lin-H)
    * [通知提示用户](http://hukai.me/android-training-course-in-chinese/ux/notify-user/index.html) - @[fastcome1985](https://github.com/fastcome1985)
    * [增加搜索功能](http://hukai.me/android-training-course-in-chinese/ux/search/index.html) - @[Lin-H](https://github.com/Lin-H)
    * [使得你的App内容可被Google搜索](http://hukai.me/android-training-course-in-chinese/ux/app-indexing/index.html) - @[Lin-H](https://github.com/Lin-H)
+* [Android界面设计](http://hukai.me/android-training-course-in-chinese/best-ui.html)
    * [为多屏幕设计](http://hukai.me/android-training-course-in-chinese/ui/multiscreen/index.html) - @[riverfeng](https://github.com/riverfeng)
-   * [为TV进行设计](http://hukai.me/android-training-course-in-chinese/ui/tv/index.html) - 待认领
    * [创建自定义View](http://hukai.me/android-training-course-in-chinese/ui/custom-view/index.html) - @[kesenhoo](https://github.com/kesenhoo)
    * [创建向后兼容的UI](http://hukai.me/android-training-course-in-chinese/ui/backward-compatible-ui/index.html) - @[spencer198711](https://github.com/spencer198711)
    * [实现辅助功能](http://hukai.me/android-training-course-in-chinese/ui/accessibility/index.html) - @[K0ST](https://github.com/K0ST)
    * [管理系统UI](http://hukai.me/android-training-course-in-chinese/ui/system-ui/index.html) - @[K0ST](https://github.com/K0ST)
+   * [创建Material Design的应用](http://hukai.me/android-training-course-in-chinese/material/index.html) - @[allenlsy](https://github.com/allenlsy)
 * [Android用户输入](http://hukai.me/android-training-course-in-chinese/best-user-input.html)
    * [使用触摸手势](http://hukai.me/android-training-course-in-chinese/input/gestures/index.html) - @[Andrwyw](https://github.com/Andrwyw)
    * [处理键盘输入](http://hukai.me/android-training-course-in-chinese/input/keyboard-input/index.html) - @[zhaochunqi](https://github.com/zhaochunqi)
-   * [兼容游戏控制器](http://hukai.me/android-training-course-in-chinese/input/game-controller/index.html) - 待认领
+   * [兼容游戏控制器](http://hukai.me/android-training-course-in-chinese/input/game-controller/index.html) - @2014/07/10 - 待认领
 * [Android后台任务](http://hukai.me/android-training-course-in-chinese/best-background.html)
    * [在IntentService中执行后台任务](http://hukai.me/android-training-course-in-chinese/background-jobs/run-background-service/index.html) - @[kesenhoo](https://github.com/kesenhoo)
    * [在后台加载数据](http://hukai.me/android-training-course-in-chinese/background-jobs/load-data-background/index.html) - @[kesenhoo](https://github.com/kesenhoo)
@@ -120,7 +127,8 @@ Google Android团队在2012年的时候开设了**Android Training**板块 - <ht
 
 下面是参与翻译的小伙伴(Github ID按照课程结构排序)：
 
-|  |  |  |
+
+| 0 | 1 | 2 |
 | -- | -- | -- |
 | @[yuanfentiank789](https://github.com/yuanfentiank789) | @[vincent4j](https://github.com/vincent4j) | @[Lin-H](https://github.com/Lin-H) |
 | @[kesenhoo](https://github.com/kesenhoo) | @[fastcome1985](https://github.com/fastcome1985) | @[jdneo](https://github.com/jdneo) |
@@ -132,6 +140,7 @@ Google Android团队在2012年的时候开设了**Android Training**板块 - <ht
 | @[pedant](https://github.com/pedant) | @[craftsmanBai](https://github.com/craftsmanBai) | @[huanglizhuo](https://github.com/huanglizhuo) |
 | 0:9 | 1:9 | 2:9 |
 | 0:10 | 1:10 | 2:10 |
+
 
 @发起人:[胡凯](<http://hukai.me>)，博客：<http://hukai.me>，Github：<https://github.com/kesenhoo>，微博：<http://weibo.com/kesenhoo>
 
